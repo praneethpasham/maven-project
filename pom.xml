@@ -1,0 +1,20 @@
+<project>
+
+<!-- pom . xml version -->
+<modelversion>4.0.0</modelversion>
+
+<!--company name -->
+<groupId>org.sunnetwork</groupId>
+
+
+<!--project name -->
+<artifactId>hello-world</artifactId>
+
+<!--version of war file -->
+<version>1.0-snapshot </version>
+
+<!--packaging a war or jar file -->
+
+<packaging>jar</packaging>
+
+</project>

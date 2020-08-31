@@ -1,19 +1,19 @@
 <project>
 
-<!-- pom . xml version -->
+<!-- version of pom.xml -->
 <modelversion>4.0.0</modelversion>
 
-<!--company name -->
+<!--organization -->
 <groupId>org.sunnetwork</groupId>
 
 
 <!--project name -->
-<artifactId>hello-world</artifactId>
+<artifactId>maven-project</artifactId>
 
-<!--version of war file -->
+<!--version of artifact/component -->
 <version>1.0-snapshot </version>
 
-<!--packaging a war or jar file -->
+<!--packaging  war/jar -->
 
 <packaging>jar</packaging>
 

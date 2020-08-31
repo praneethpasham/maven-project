@@ -1,20 +1,9 @@
 <project>
-
-<!-- version of pom.xml -->
-<modelversion>4.0.0</modelversion>
-
-<!--organization -->
-<groupId>org.sunnetwork</groupId>
-
-
-<!--project name -->
-<artifactId>maven-project</artifactId>
-
-<!--version of artifact/component -->
-<version>1.0-snapshot </version>
-
-<!--packaging  war/jar -->
-
-<packaging>jar</packaging>
-
+<modelVersion>4.0.0</modelVersion>
+    <groupId>com.sunnetwork</groupId>
+    <artifactId>mavenproject</artifactId>
+    <packaging>war</packaging>
+    <version>1.0</version>
+    <name>Account Registration Webapp</name>
+    <url>http://maven.apache.org</url>
 </project>
